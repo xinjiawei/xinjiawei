@@ -25,7 +25,10 @@
    ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
+  ![Radis](https://img.shields.io/badge/-Radis-black?style=plastic&logo=radis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
+  ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
 <br/> ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
 <br/> [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
 <br/>
