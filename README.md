@@ -12,6 +12,7 @@
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
