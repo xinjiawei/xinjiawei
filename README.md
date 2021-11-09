@@ -14,6 +14,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 
 - 💻 I work using:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
