@@ -30,6 +30,7 @@
 <br/> [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
 <br/>
 📊 **this week i spent my time on:**
+<br/>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
