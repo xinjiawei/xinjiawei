@@ -26,8 +26,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-<br/>
-<br/> [![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
+<br/> ![](https://github-readme-stats.vercel.app/api?username=mayandev)
+<br/> [![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)]
 <br/> [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
 <br/>
 📊 **this week i spent my time on:**
