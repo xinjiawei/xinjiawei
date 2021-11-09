@@ -27,7 +27,7 @@
    ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
-  ![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=redis)
+  ![Redis](https://img.shields.io/badge/-Redis-E34F26?style=plastic&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
