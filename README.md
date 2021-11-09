@@ -18,7 +18,7 @@
 
 - 💻 I work using:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Sublime](https://img.shields.io/badge/-Sublime-FCA121?style=plastic&logo=sublimetext)
+  ![Sublime](https://img.shields.io/badge/-Sublime-181717?style=plastic&logo=sublimetext)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ I also use and work: 
@@ -27,7 +27,7 @@
    ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
-  ![Radis](https://img.shields.io/badge/-Radis-black?style=plastic&logo=radis)
+  ![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
