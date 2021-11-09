@@ -1,5 +1,5 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
-<br/> My Blog https://blog.jiawei.xin 
+- My Blog: [![Twitter Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 - [![Twitter Badge](https://img.shields.io/badge/-xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
 [![Facebook Badge](https://img.shields.io/badge/-xinjiawei-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jiawei.xin.501)](https://www.facebook.com/jiawei.xin.501)
 [![Linkedin Badge](https://img.shields.io/badge/-jiaweixin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaweixin-a58941104/)](https://www.linkedin.com/in/jiaweixin-a58941104/)
@@ -33,14 +33,15 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
-<br/> ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
-<br/> [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
-<br/>
-📊 **this week i spent my time on:**
+- ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
+ - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37) &nbsp;&nbsp;&nbsp;
+  📊 **this week i spent my time on:**
 <br/>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+
 
