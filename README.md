@@ -38,8 +38,7 @@
   📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Other   1 hr 50 mins    ████████████████████████▒   97.78 % 
-XML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
