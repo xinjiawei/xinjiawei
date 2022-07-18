@@ -21,7 +21,6 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Sublime](https://img.shields.io/badge/-Sublime-181717?style=plastic&logo=sublimetext)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
