@@ -38,7 +38,7 @@
    ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
 - 🌱 Learning all about:
   ![C#](https://img.shields.io/badge/-C%23-00599C?style=plastic&logo=c)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white) 
   ![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=redis)
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
  - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37) &nbsp;&nbsp;&nbsp;
