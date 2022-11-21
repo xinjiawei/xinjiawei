@@ -1,6 +1,8 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
 - My Blog: [![Twitter Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
-- [![Twitter Badge](https://img.shields.io/badge/-xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
+
+- Contact Me:
+[![Twitter Badge](https://img.shields.io/badge/-xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
 [![Facebook Badge](https://img.shields.io/badge/-xinjiawei-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jiawei.xin.501)](https://www.facebook.com/jiawei.xin.501)
 [![Linkedin Badge](https://img.shields.io/badge/-jiaweixin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaweixin-a58941104/)](https://www.linkedin.com/in/jiaweixin-a58941104/)
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
@@ -17,15 +19,15 @@
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
 - 💻 I work using:
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
   
 - 👩‍💻 IDE and TOOLS
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Sublime](https://img.shields.io/badge/-Sublime-181717?style=plastic&logo=sublimetext)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
-  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
   
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
