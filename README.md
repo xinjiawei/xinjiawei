@@ -24,7 +24,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
-  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
