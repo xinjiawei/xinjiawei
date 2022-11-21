@@ -46,7 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            21 hrs 5 mins   ███████████████████▓░░░░░   78.82 %
+From: 08 November 2021 - To: 20 November 2022
+
+Total Time: 237 hrs 12 mins
+
+Other                  150 hrs 8 mins  >>>>>>>>>>>>>>>>---------   63.30 %
 ```
 
 <!--END_SECTION:waka-->
