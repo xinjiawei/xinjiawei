@@ -8,7 +8,6 @@
 - 🏢 I'm currently STUDY at **HEBUST&&Federation**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -16,24 +15,29 @@
   ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
 - 💻 I work using:
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+- 👩‍💻 IDE and TOOLS
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Sublime](https://img.shields.io/badge/-Sublime-181717?style=plastic&logo=sublimetext)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
-  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
+  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+   ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
+   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+   ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
+   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
 - 🌱 Learning all about:
   ![C#](https://img.shields.io/badge/-C%23-00599C?style=plastic&logo=c)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
   ![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=redis)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=plastic&logo=sqlite)
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
  - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37) &nbsp;&nbsp;&nbsp;
   📊 **this week i spent my time on:**
@@ -44,6 +48,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-
