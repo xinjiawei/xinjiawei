@@ -46,11 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2021 - To: 30 November 2022
+From: 08 November 2021 - To: 01 December 2022
 
-Total Time: 290 hrs 55 mins
+Total Time: 294 hrs 35 mins
 
-Other                  190 hrs 8 mins  >>>>>>>>>>>>>>>>---------   65.36 %
+Other                  193 hrs 12 mins >>>>>>>>>>>>>>>>---------   65.59 %
 ```
 
 <!--END_SECTION:waka-->
