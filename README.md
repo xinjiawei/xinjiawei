@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2021 - To: 05 December 2022
+From: 08 November 2021 - To: 06 December 2022
 
 Total Time: 300 hrs 42 mins
 
