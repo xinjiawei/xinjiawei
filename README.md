@@ -18,7 +18,7 @@
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
-  ![Electron](https://img.shields.io/badge/-Electron-black?style=plastic&logo=Electron) 
+  ![Electron](https://img.shields.io/badge/-Electron-white?style=plastic&logo=Electron) 
 
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
