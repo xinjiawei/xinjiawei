@@ -15,7 +15,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   
 - 🛠 More:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-white?style=plastic&logo=Node.js) 
   ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
   ![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=android)
   ![Electron](https://img.shields.io/badge/-Electron-white?style=plastic&logo=Electron) 
