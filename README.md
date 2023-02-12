@@ -2,7 +2,7 @@
 - My Blog: [![Twitter Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
 - Contact Me:
-[![Twitter Badge](https://img.shields.io/badge/-xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
+[![Twitter Badge](https://img.shields.io/badge/-xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/?style=social)](https://twitter.com/xinjiawei3/)
 [![Facebook Badge](https://img.shields.io/badge/-xinjiawei-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jiawei.xin.501)](https://www.facebook.com/jiawei.xin.501)
 [![Linkedin Badge](https://img.shields.io/badge/-jiaweixin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaweixin-a58941104/)](https://www.linkedin.com/in/jiaweixin-a58941104/)
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
