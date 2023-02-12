@@ -1,5 +1,5 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
-- My Blog: [![Twitter Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
+- My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
 - Contact Me:
 [![Twitter Badge](https://img.shields.io/badge/-@xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
