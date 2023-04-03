@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2021 - To: 02 April 2023
+From: 08 November 2021 - To: 03 April 2023
 
-Total Time: 335 hrs 56 mins
+Total Time: 336 hrs 5 mins
 
-Other                  211 hrs 27 mins >>>>>>>>>>>>>>>>---------   62.95 %
+Other                  211 hrs 37 mins >>>>>>>>>>>>>>>>---------   62.97 %
 ```
 
 <!--END_SECTION:waka-->
