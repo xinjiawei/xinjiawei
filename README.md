@@ -57,6 +57,10 @@ From: 08 November 2021 - To: 04 May 2023
 Total Time: 343 hrs 12 mins
 
 Other                  214 hrs 54 mins >>>>>>>>>>>>>>>>---------   62.62 %
+HTML                   31 hrs 27 mins  >>-----------------------   09.17 %
+Java                   29 hrs 32 mins  >>-----------------------   08.61 %
+JavaScript             17 hrs 30 mins  >------------------------   05.10 %
+TypeScript             9 hrs 7 mins    >------------------------   02.66 %
 ```
 
 <!--END_SECTION:waka-->
