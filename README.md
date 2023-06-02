@@ -51,7 +51,7 @@
   📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 08 November 2021 - To: 01 June 2023
 
 Total Time: 376 hrs 5 mins
