@@ -15,7 +15,6 @@
 - 🛠 More:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
-  ![Android](https://img.shields.io/badge/-Android(java)-black?style=plastic&logo=android)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
 
