@@ -35,8 +35,8 @@
   ![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman)
   
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
-- [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37) &nbsp;&nbsp;&nbsp;
-  📊
+- [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
+- 📊
 <!--START_SECTION:waka-->
 
 ```txt
