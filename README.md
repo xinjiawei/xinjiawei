@@ -10,20 +10,16 @@
 - 🏢 I'm used to study at **HEBUST China&&Federation Australia**
 - ⚔ I use daily:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - 🛠 More:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
 
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    
 - 🌱 Learning all about:
-  ![C#](https://img.shields.io/badge/-C%23-00599C?style=plastic&logo=c)
-  ![Electron](https://img.shields.io/badge/-Electron-white?style=plastic&logo=Electron) 
+  ![Go#](https://img.shields.io/badge/-go-00599C?style=plastic&logo=go)
   
 - 💻 I work using:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
