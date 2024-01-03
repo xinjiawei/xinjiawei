@@ -27,7 +27,6 @@
   ![Mac](https://img.shields.io/badge/macOS-ffffff?style=plastic&logo=macos&logoColor=black)
   
 - 👩‍💻 IDE and TOOLS
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-black?style=plastic&logo=phpstorm)
   ![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=plastic)
   ![Sublime](https://img.shields.io/badge/-Sublime-181717?style=plastic&logo=sublimetext)
