@@ -13,7 +13,6 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - 🛠 More:
-  ![DENO](https://img.shields.io/badge/-deno-black?style=plastic&logo=DENO) 
 
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
