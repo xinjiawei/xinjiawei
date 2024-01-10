@@ -1,6 +1,8 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
 - My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
+- Now is focusing on:  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) => ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+- 
 - Contact Me:
 [![Twitter Badge](https://img.shields.io/badge/-@xinjiawei3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xinjiawei3/)](https://twitter.com/xinjiawei3/)
 [![Facebook Badge](https://img.shields.io/badge/-@xinjiawei-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jiawei.xin.501)](https://www.facebook.com/jiawei.xin.501)
@@ -10,8 +12,6 @@
 - 🏢 I'm used to study at **HEBUST China && Federation University Australia**
 - ⚔ I use daily:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-
-- Now ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) => ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - 🛠 More:
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
