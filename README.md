@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@jiaweixin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaweixin-a58941104/)](https://www.linkedin.com/in/jiaweixin-a58941104/)
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
 
-- 🏢 I'm used to study at **HEBUST China&&Federation Australia**
+- 🏢 I'm used to study at **HEBUST China && Federation University Australia**
 - ⚔ I use daily:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   
