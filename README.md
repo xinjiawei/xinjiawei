@@ -10,6 +10,8 @@
 - 🏢 I'm used to study at **HEBUST China && Federation University Australia**
 - ⚔ I use daily:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+
+- Now ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) => ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - 🛠 More:
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
