@@ -12,7 +12,8 @@
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   
 - 🛠 More:
-
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  
 - ⚙️ I also use and work: 
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    
