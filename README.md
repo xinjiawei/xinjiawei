@@ -10,7 +10,6 @@
 - 🏢 I'm used to study at **HEBUST China&&Federation Australia**
 - ⚔ I use daily:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - 🛠 More:
 
@@ -18,6 +17,7 @@
    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    
 - 🌱 Learning all about:
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Go#](https://img.shields.io/badge/-go-00599C?style=plastic&logo=go)
   
 - 💻 I work using:
