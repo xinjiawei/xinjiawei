@@ -41,14 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2021 - To: 26 November 2024
+From: 08 November 2021 - To: 27 November 2024
 
-Total Time: 2,562 hrs 34 mins
+Total Time: 2,572 hrs 20 mins
 
-Other                  1,804 hrs 27 mins>>>>>>>>>>>>>>>>>>-------   70.42 %
-PHP                    522 hrs 7 mins  >>>>>--------------------   20.37 %
-C                      45 hrs 28 mins  -------------------------   01.77 %
-C++                    36 hrs 34 mins  -------------------------   01.43 %
+Other                  1,807 hrs 36 mins>>>>>>>>>>>>>>>>>>-------   70.27 %
+PHP                    522 hrs 7 mins  >>>>>--------------------   20.30 %
+C                      50 hrs 58 mins  -------------------------   01.98 %
+C++                    36 hrs 56 mins  -------------------------   01.44 %
 HTML                   32 hrs 32 mins  -------------------------   01.27 %
 ```
 
