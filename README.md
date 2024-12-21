@@ -15,8 +15,9 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
 - ⚙️ I also use and work:
-   ![php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+  ![Python](https://img.shields.io/badge/-python-394989?style=plastic&logo=python)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    
 - 🌱 Learning all about:
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
