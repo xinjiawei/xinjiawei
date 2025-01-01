@@ -20,7 +20,7 @@
   
 - 👩‍💻 IDE and TOOLS
   [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-  [![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&)
+  [![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&)](#)
   [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
   [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
