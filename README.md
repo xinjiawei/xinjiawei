@@ -1,17 +1,15 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
 - My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
-- Now is focusing on:  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-
 - Contact Me:
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
 
 - 🏢 Graduated from **HEBUST China && Federation University Australia**
 - ⚔ I use daily:
-  ![c](https://img.shields.io/badge/-c-394989?style=plastic&logo=c)
+  ![C](https://img.shields.io/badge/-c-394989?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   
-- ⚙️ I also use and work:
+- ⚙️ I also use it at work:
   ![php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![Python](https://img.shields.io/badge/-python-394989?style=plastic&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
