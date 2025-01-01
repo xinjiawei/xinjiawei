@@ -20,12 +20,12 @@
   ![Mac](https://img.shields.io/badge/macOS-ffffff?style=plastic&logo=macos&logoColor=black)
   
 - 👩‍💻 IDE and TOOLS
-  [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
-  ![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&)
-  [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
+
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&) [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman)
-  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
   
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
 - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
