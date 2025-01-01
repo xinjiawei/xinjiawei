@@ -4,21 +4,17 @@
 - Contact Me:
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
 
-- 🏢 Graduated from **HEBUST China && Federation University Australia**
-- ⚔ I use daily:
+- 🏢 Graduated from: HEBUST China && Federation University Australia
+
+- Using at works:
   ![C](https://img.shields.io/badge/-c-394989?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  
-- ⚙️ I also use it at work:
   ![php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![Python](https://img.shields.io/badge/-python-394989?style=plastic&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
    
-- 🌱 Learning all about:
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![Go#](https://img.shields.io/badge/-go-00599C?style=plastic&logo=go)
   
-- 💻 I work using:
+- 💻 Platforms:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
   ![Mac](https://img.shields.io/badge/macOS-ffffff?style=plastic&logo=macos&logoColor=black)
