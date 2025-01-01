@@ -24,7 +24,7 @@
   [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
   [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-  ![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman)
+  [![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)](#)
   
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
 - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
