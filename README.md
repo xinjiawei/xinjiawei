@@ -1,8 +1,8 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
 - ✍ My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
-- Contact Me:
-  📧 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
+- 📧 Contact Me:
+  [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
 
 - 🏢 Graduated from: HEBUST China && Federation University Australia
 
