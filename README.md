@@ -6,7 +6,7 @@
 - Contact Me:
 [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
 
-- 🏢 I'm used to study at **HEBUST China && Federation University Australia**
+- 🏢 Graduated from **HEBUST China && Federation University Australia**
 - ⚔ I use daily:
   ![c](https://img.shields.io/badge/-c-394989?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
