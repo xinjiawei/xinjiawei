@@ -7,9 +7,9 @@
 - 🏢 Graduated from: HEBUST China && Federation University Australia
 
 - 🐵 Using at works:
-  ![C](https://img.shields.io/badge/-c-394989?style=plastic&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+  ![C](https://img.shields.io/badge/-C-394989?style=plastic&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
+  ![PHP](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![Python](https://img.shields.io/badge/-python-394989?style=plastic&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
