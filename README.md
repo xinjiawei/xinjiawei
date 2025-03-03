@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2021 - To: 02 March 2025
+From: 08 November 2021 - To: 03 March 2025
 
 Total Time: 2,959 hrs 1 min
 
