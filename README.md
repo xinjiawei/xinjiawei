@@ -1,10 +1,12 @@
 ### Hi there  ~ o(*￣▽￣*)ブ
+- 👩‍💻 I am an Embedded Linux Software Development Engineer
+
+- 🏢 Graduated from: HEBUST China && Federation University Australia
+
 - ✍ My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.jiawei.xin-yellowgreen)](https://blog.jiawei.xin)
 
 - 📧 Contact Me:
   [![Gmail Badge](https://img.shields.io/badge/-xinjiawei@mb6.top-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:xinjiawei@mb6.top)](mailto:xinjiawei@mb6.top)
-
-- 🏢 Graduated from: HEBUST China && Federation University Australia
 
 - 🐵 Using at works:
   ![C](https://img.shields.io/badge/-C-394989?style=plastic&logo=c)
@@ -13,12 +15,8 @@
   ![Python](https://img.shields.io/badge/-python-394989?style=plastic&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
-- 💻 Platforms:
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-  ![Mac](https://img.shields.io/badge/macOS-ffffff?style=plastic&logo=macos&logoColor=black)
   
-- 👩‍💻 IDE and TOOLS
+- ✈️ IDE and TOOLS
   [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
   [![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&)](#)
   [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
