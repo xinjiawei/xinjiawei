@@ -26,19 +26,3 @@
   
 - ![stats](https://github-readme-stats.vercel.app/api?username=xinjiawei)
 - [![wakatime](https://wakatime.com/badge/user/60583d7f-15e9-49c1-b4eb-dd05e1ccec37.svg)](https://wakatime.com/@60583d7f-15e9-49c1-b4eb-dd05e1ccec37)
-- 📊
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 November 2021 - To: 29 May 2025
-
-Total Time: 3,335 hrs 58 mins
-
-Other                      2,435 hrs       >>>>>>>>>>>>>>>>>>-------   72.99 %
-PHP                        522 hrs 36 mins >>>>---------------------   15.67 %
-C                          122 hrs 18 mins >------------------------   03.67 %
-C++                        43 hrs 48 mins  -------------------------   01.31 %
-HTML                       32 hrs 48 mins  -------------------------   00.98 %
-```
-
-<!--END_SECTION:waka-->
